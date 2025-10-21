@@ -1,0 +1,20 @@
+{
+	"events_types": [
+		"association",
+		"event",
+		"piscine",
+		"hackathon",
+		"extern",
+		"conference",
+		"other",
+		"meet_up",
+		"workshop"
+	],
+
+	"campus": [
+		{
+			"id": 1,
+			"name": "Paris"
+		}
+	]
+}
